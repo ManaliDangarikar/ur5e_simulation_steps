@@ -1,0 +1,3 @@
+[console_scripts]
+pick_place_ik = ur5e_pick_place.pick_place_ik:main
+

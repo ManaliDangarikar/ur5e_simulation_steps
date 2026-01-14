@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/ur5e_pick_place/ur5e_pick_place.egg-info/PKG-INFO
+writing dependency_links to ../../build/ur5e_pick_place/ur5e_pick_place.egg-info/dependency_links.txt
+writing entry points to ../../build/ur5e_pick_place/ur5e_pick_place.egg-info/entry_points.txt
+writing requirements to ../../build/ur5e_pick_place/ur5e_pick_place.egg-info/requires.txt
+writing top-level names to ../../build/ur5e_pick_place/ur5e_pick_place.egg-info/top_level.txt
+reading manifest file '../../build/ur5e_pick_place/ur5e_pick_place.egg-info/SOURCES.txt'
+writing manifest file '../../build/ur5e_pick_place/ur5e_pick_place.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ur5e_pick_place/pick_place_ik.py -> /home/dev/ur_ws/build/ur5e_pick_place/build/lib/ur5e_pick_place
+running install
+running install_lib
+copying /home/dev/ur_ws/build/ur5e_pick_place/build/lib/ur5e_pick_place/pick_place_ik.py -> /home/dev/ur_ws/install/ur5e_pick_place/lib/python3.10/site-packages/ur5e_pick_place
+byte-compiling /home/dev/ur_ws/install/ur5e_pick_place/lib/python3.10/site-packages/ur5e_pick_place/pick_place_ik.py to pick_place_ik.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/dev/ur_ws/install/ur5e_pick_place/lib/python3.10/site-packages/ur5e_pick_place-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ur5e_pick_place/ur5e_pick_place.egg-info to /home/dev/ur_ws/install/ur5e_pick_place/lib/python3.10/site-packages/ur5e_pick_place-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pick_place_ik script to /home/dev/ur_ws/install/ur5e_pick_place/lib/ur5e_pick_place
+writing list of installed files to '/home/dev/ur_ws/build/ur5e_pick_place/install.log'
